@@ -1,0 +1,6 @@
+Artifacts 
+logs
+venv
+.env
+upload_doc
+GP.egg-info

@@ -1,0 +1,17 @@
+langchain-community
+langchain
+langchain-groq
+langchain-chroma
+langchain-groq
+pypdf
+python-dotenv
+pytesseract
+pdf2image
+ipykernel
+pandas
+sentence_transformers
+qdrant-client
+langchain_chroma
+flask
+-e .
+
